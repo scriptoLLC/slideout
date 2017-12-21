@@ -11,7 +11,7 @@
     "hint": "jshint index.js"
   },
   "dependencies": {
-    "decouple": "0.0.2",
+    "@scriptollc/decouple": "^1.0.1",
     "emitter": "git+https://github.com/Mango/emitter.git#0.0.7",
     "global": "^4.3.2"
   },

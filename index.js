@@ -3,7 +3,7 @@
 /**
  * Module dependencies
  */
-var decouple = require('decouple');
+var decouple = require('@scriptollc/decouple');
 var Emitter = require('emitter');
 var doc = require('global/document');
 
