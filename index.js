@@ -7,6 +7,7 @@ var decouple = require('@scriptollc/decouple');
 var Emitter = require('emitter');
 var doc = require('global/document');
 var window = require('global/window')
+window.navigator = window.navigator || {}
 
 /**
  * Privates
