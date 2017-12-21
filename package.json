@@ -1,5 +1,5 @@
 {
-  "name": "slideout",
+  "name": "@scriptollc/slideout",
   "repository": "git@github.com:mango/slideout.git",
   "description": "A touch slideout navigation menu for your mobile web apps.",
   "author": "Guille Paz <guille87paz@gmail.com>",
